@@ -1,0 +1,21 @@
+<div >
+	<h1 class="mt-4">{{ title }}</h1>
+	
+	<div class="game-board container">
+	<div *ngFor="let card of cards" class="card" [class.flipped]="card.flipped" (click)="onCardClick(card)">
+		<div class="card-front p-3" *ngIf="card.flipped">
+			<img [src]="card.value" class=""> 
+		</div>
+		<div class="card-back" *ngIf="!card.flipped"></div>
+	</div>
+	</div>
+	
+	<div class="game-status">
+	<p>Moves: {{ moves }}</p>
+	<p *ngIf="gameWon">
+		🎉 Congratulations! You won the game! 🎉
+		<canvas #drawingCanvas id="drawing_canvas"></canvas>
+		</p>
+	<button class="btn text-light fw-bold" style="background-color:#ff477e" (click)="initializeGame()">Restart Game</button>
+	</div>
+</div>
