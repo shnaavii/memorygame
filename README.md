@@ -34,11 +34,10 @@ To run this project locally, follow these steps:
 - **TypeScript:** Typed superset of JavaScript for clean and scalable code.  
 - **CSS:** Styling for a polished, responsive design.  
 
-## How to Play 🃏  
-1. Start the game and choose a theme.  
-2. Flip the cards to reveal their content.  
-3. Match pairs of cards as quickly and accurately as possible.  
-4. Keep an eye on the timer and your score!  
+## How to Play 🃏    
+1. Flip the cards to reveal their content.  
+2. Match pairs of cards as quickly and accurately as possible.  
+3. Loved it  ! Restart the game . 
 
 ## Acknowledgments 🙌  
 This project wouldn't have been possible without the versatile technology that continues to inspire and empower developers to transform ideas into reality.  
