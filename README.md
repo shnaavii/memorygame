@@ -1,63 +1,44 @@
-<<<<<<< HEAD
-# Memorycard
+# Memory Card Game 🎮  
+A fun and engaging memory card game, built with **Angular** and **TypeScript**, that challenges users to match pairs of cards while enhancing their cognitive skills.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
+## Features ✨  
+- **Dynamic User Interface:** Built with Angular for seamless interactivity.  
+- **Type-Safe Development:** Leveraging TypeScript for scalability and robust code.  
+- **Custom Themes:** Choose from a range of card designs and themes.  
+- **Responsive Design:** Play effortlessly on any device.  
+- **Timer and Score Tracker:** Challenge yourself to improve with every game!  
 
-## Development server
+## Installation 🛠️  
+To run this project locally, follow these steps:  
 
-To start a local development server, run:
+1. **Clone the repository:**  
+   ```bash  
+   git clone https://github.com/username/memory-card-game.git  
+   cd memory-card-game  
+   ```  
 
-```bash
-ng serve
-```
+2. **Install dependencies:**  
+   ```bash  
+   npm install  
+   ```  
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+3. **Run the development server:**  
+   ```bash  
+   ng serve  
+   ```  
 
-## Code scaffolding
+4. Open your browser and navigate to: `http://localhost:4200`.  
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## Tech Stack 🚀  
+- **Angular:** Framework for building dynamic applications.  
+- **TypeScript:** Typed superset of JavaScript for clean and scalable code.  
+- **CSS:** Styling for a polished, responsive design.  
 
-```bash
-ng generate component component-name
-```
+## How to Play 🃏  
+1. Start the game and choose a theme.  
+2. Flip the cards to reveal their content.  
+3. Match pairs of cards as quickly and accurately as possible.  
+4. Keep an eye on the timer and your score!  
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-=======
-# memorygame
->>>>>>> 278d9cc61691f3b3f8e8feca94cb21a48d83364a
+## Acknowledgments 🙌  
+This project wouldn't have been possible without the versatile technology that continues to inspire and empower developers to transform ideas into reality.  
